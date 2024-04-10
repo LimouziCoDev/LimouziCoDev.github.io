@@ -1,7 +1,7 @@
 baseURL: ''
-title: TailBliss
-languageCode: en-us
-DefaultContentLanguage: en
+title: LimouziCoDev
+languageCode: fr-fr
+DefaultContentLanguage: fr
 enableEmoji: true
 enableGitInfo: true
 enableRobotsTXT: true
@@ -10,6 +10,7 @@ paginate: 9
 darkmode_js:
   - assets/js/darkmode.js
 enableInlineShortcodes: true
+hero: images/limouziCoDev.jpg
 
 markup:
   goldmark:
@@ -48,9 +49,10 @@ markup:
 params:
   author: Nusser Studios
   authorimage: ../assets/images/global/author.webp
-  og_image: /images/tailbliss-cover.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  og_image: /images/limouziCoDev.jpg
+  moto: "La communauté Craft en Limousin"
+  description: "Partageons nos expériences et faisons bouger ensemble la COmmunauté de DEVeloppement logiciel dans le Limousin ! \n
+Curieuses, curieux, quelle que soit votre expérience, venez échanger avec des personnes partageant le même intérêt que vous pour le développement."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
