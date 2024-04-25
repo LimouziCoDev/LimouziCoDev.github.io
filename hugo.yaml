@@ -58,8 +58,8 @@ Curieuses, curieux, quelle que soit votre expérience, venez échanger avec des 
 
   social_media:
     github:
-      enabled: false
-      url: 'https://github.com/Limouzicodev'
+      enabled: true
+      url: 'https://github.com/LimouziCoDev'
     facebook:
       enabled: false
       url: 'https://facebook.com/nusserstudios'
@@ -69,7 +69,7 @@ Curieuses, curieux, quelle que soit votre expérience, venez échanger avec des 
     twitter:
       enabled: false
       url: '@nusserstudios'
-    
+
 
 menu:
   main:
