@@ -2920,10 +2920,6 @@ video {
   align-items: center;
 }
 
-.justify-end {
-  justify-content: flex-end;
-}
-
 .justify-center {
   justify-content: center;
 }
@@ -2970,10 +2966,6 @@ video {
   --tw-space-y-reverse: 0;
   margin-top: calc(2rem * calc(1 - var(--tw-space-y-reverse)));
   margin-bottom: calc(2rem * var(--tw-space-y-reverse));
-}
-
-.overflow-auto {
-  overflow: auto;
 }
 
 .overflow-hidden {
@@ -3233,10 +3225,6 @@ video {
 
 .pb-4 {
   padding-bottom: 1rem;
-}
-
-.pb-8 {
-  padding-bottom: 2rem;
 }
 
 .pl-4 {
@@ -4597,10 +4585,6 @@ EmojiSymbols;
 
   .md\:max-w-sm {
     max-width: 24rem;
-  }
-
-  .md\:grid-cols-2 {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .md\:grid-cols-3 {
