@@ -52,8 +52,10 @@ params:
   og_image: /images/limouziCoDev.jpg
   moto: "La communauté Craft en Limousin"
   title: "Communauté de développeurs en Limousin"
-  description: "Partageons nos expériences et faisons bouger ensemble la COmmunauté de DEVeloppement logiciel à Limoges ! \n
-Curieuses, curieux, quelle que soit votre expérience, venez échanger avec des personnes partageant le même intérêt que vous pour le développement."
+  description:
+    - text: "Partageons nos expériences et faisons bouger ensemble la COmmunauté de DEVeloppement logiciel à Limoges !"
+    - text: "Curieuses, curieux, quelle que soit votre expérience, venez échanger avec des personnes partageant le même intérêt que vous pour le développement."
+    - text: "Au programme : code katas, TDD, débats improvisés."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
